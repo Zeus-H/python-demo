@@ -1,3 +1,4 @@
 # python-demo
 pyhon编程-入门到实践书籍中的代码
-项目- 飞机大战外星人的 代码
+com.game 第二部分 外星人入侵 代码
+com.variable 第一部分基础知识
