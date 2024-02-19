@@ -1,6 +1,5 @@
 import four_one
 from four_one import make_pizza as mp
-from four_one import *
 
 
 # 定义函数
